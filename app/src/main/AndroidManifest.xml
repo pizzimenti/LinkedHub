@@ -17,6 +17,8 @@
         </activity>
         <activity android:name=".linkedInQuery">
         </activity>
+        <activity android:name=".RepoListActivity">
+        </activity>
     </application>
 
 </manifest>
