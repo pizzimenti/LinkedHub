@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LinkedHub</string>
+    <string name="error_title">Error</string>
+    <string name="error_message">GitHub hated your query.\n\nPlease check the spelling as GitHub never makes mistakes.</string>
+    <string name="error_ok_button">Thanks, GitHub!</string>
+    <string name="network_unavailable">Network unavailable, have you signal?</string>
 </resources>
